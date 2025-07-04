@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Para que serve o CSS?',
+    'separar o conteúdo do site de sua apresentação visual'
 )
 
 criaCartao(
